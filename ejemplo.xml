@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<biblioteca>
+    <libro id="1" categoria="ficcion">
+        <titulo>Cien años de soledad</titulo>
+        <autor>Gabriel García Márquez</autor>
+        <año>1967</año>
+        <editorial>Editorial Sudamericana</editorial>
+        <precio moneda="USD">25.99</precio>
+        <disponible>true</disponible>
+    </libro>
+    <libro id="2" categoria="tecnologia">
+        <titulo>Clean Code</titulo>
+        <autor>Robert C. Martin</autor>
+        <año>2008</año>
+        <editorial>Prentice Hall</editorial>
+        <precio moneda="USD">42.50</precio>
+        <disponible>true</disponible>
+    </libro>
+    <libro id="3" categoria="ciencia">
+        <titulo>Una breve historia del tiempo</titulo>
+        <autor>Stephen Hawking</autor>
+        <año>1988</año>
+        <editorial>Bantam Books</editorial>
+        <precio moneda="USD">18.99</precio>
+        <disponible>false</disponible>
+    </libro>
+    <estadisticas>
+        <total_libros>3</total_libros>
+        <ultima_actualizacion>2024-02-13</ultima_actualizacion>
+    </estadisticas>
+</biblioteca>
